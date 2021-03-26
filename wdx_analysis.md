@@ -5,13 +5,18 @@ This project is all about working and exploring the world data from the site **W
 ### Why is this analysis
 - This type of investivations must be conducted often to check the position or graph of the world whether it is climbing up for the better situations or falling down so that the government can take necessary actions according to the results of this kind of exploration. There will be possibility for the government to take care of its people ahead before the situation goes out of the hands. Also we can find the areas to be developed, fields to be given importance, zones to be concentrated for the better of each area, country and the finally the world. And for the individual, this type of investigations help in gaining knowledge about different aspects in the world in different time periods and gets chance to work on this kind of data and with this experience, every interested individual can become a Data Analyst or Business Analyst.
 ### Observations from the analysis
-*Below is the resulting bubble chart obtained from the given parameters at the year 1988*
+**_Below is the resulting bubble chart obtained from the given parameters at the year 1988_**
 ![image](https://user-images.githubusercontent.com/78044715/112570735-0197e800-8dbd-11eb-8ac0-fe8638f4c20c.png)
-*Below is the 2D Scatter plot for given parameters*
+
+**_Below is the 2D Scatter plot for given parameters_**
 ![image](https://user-images.githubusercontent.com/78044715/112571470-7b7ca100-8dbe-11eb-8bf1-f240b0470424.png)
-*Below is the sample Bar chart for Agricultural land*
+
+**_Below is the sample Bar chart for Agricultural land_**
 ![image](https://user-images.githubusercontent.com/78044715/112571578-bbdc1f00-8dbe-11eb-9292-28a444bdb28d.png)
-*Below is the sample Line chart for Agricultural land*
+
+**_Below is the sample Line chart for Agricultural land_**
 ![image](https://user-images.githubusercontent.com/78044715/112571646-e037fb80-8dbe-11eb-8e78-2e6c22a170ac.png)
-*Below is the sample Pie chart for Agricultural land*
+
+**_Below is the sample Pie chart for Agricultural land_**
 ![image](https://user-images.githubusercontent.com/78044715/112571802-2b520e80-8dbf-11eb-830a-a288f6c21ccb.png)
+
