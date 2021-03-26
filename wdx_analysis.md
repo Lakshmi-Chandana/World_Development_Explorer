@@ -25,3 +25,33 @@ This project is all about working and exploring the world data from the site **W
 
 ![image](https://user-images.githubusercontent.com/78044715/112571802-2b520e80-8dbf-11eb-830a-a288f6c21ccb.png)
 
+### Analysis
+To explain the analysis more clearly, lets take line charts into consideration. We get three line charts as there are three indicators to be looked into. First lets see the below line chart which gives the information about Agricultural land i.e., the percenage of land area during the given time period 1988 to 1995 for the selected countries i.e., Brunei Darussalam, Sri Lanka, Malaysia.
+
+Observe the chart below.
+
+![image](https://user-images.githubusercontent.com/78044715/112639538-c1fdea00-8e16-11eb-9776-c41f21d6c52d.png)
+
+- The percentage of Agricultural land area for Sri Lanka is stable except during the year 1992 and 1993 with a very slight decrement in the agricultural land area. And it also has the highest percentage of agricultural land compared to Brunei and Malaysia with approximately 37%.
+
+- The following country that has the highest agricultural land is Malaysia where there is a gradual increase in percent from 19.4 to 21.2 starting from the year 1988 to 1995.
+
+- The last country that has the least agricultural land area among the selected three countries is Brunei Darussalam. According to the general data, this country occupies the last place because the total land area for Brunei is extremely small compared to other countries.
+
+Now lets take the other line chart which gives us the information about Population growth (annual %) during the years 1988 to 1995 for the selected countries Brunei, Malaysia and Sri Lanka.
+
+![image](https://user-images.githubusercontent.com/78044715/112643393-b6acbd80-8e1a-11eb-8a0b-bb463c2c5541.png)
+
+- The country that concentrated good on annual population growth during the given time span is Sri Lanka with a cutback from 1.39 annual percent in the year 1988 to 0.81 percent in the year 1995 which is a good progess because the world's population is escalating very fast year by year.
+
+- The next country that took care of annual population growth is Malaysia where the annual percentage of population growth in the year 1988 is 2.98 and it has come down to 2.5 by the year 1995.
+
+- The smallest country Brunei Darussalam also took significant care in its annual population growth between the years 1988 and 1995. Though the annual perncent growth in population in 1988 is 2.83, it percent eventually tripped to 2.61 by the year 1995.
+
+The final indicator that we look into is the total population of all the three countries. Below is the line chart which represents the same through the years 1988 to 1995.
+
+![image](https://user-images.githubusercontent.com/78044715/112648443-eb6f4380-8e1f-11eb-89fe-32205f986b0b.png)
+
+- Though Brunei Darussalam is the beautiful and smallest country among the countries that we have chosen, the total population of the country was maintained excellently through out our selected time period. The total population in the year 1988 was approximately 244 thousands and with a very slight enlargement, the total population by the end of the year 1995 was only approximately 297 thousands. This information states that the Brunei country is very stable or almost equal in the given time span.
+
+- The population of the other two countries Malaysia and Sri Lanka are almost similar in the starting of our period i.e., 1988 with 17M for Malaysia and 16.8M for Sri Lanka. But gradually the difference between the two countries in their population count had shown a variance and it went increasing by the end of our selected time span i.e., the year 1995 where the population of Malaysia in the year 1995 is 20.4M and the population of the country Sri Lanka in the year 1995 is about 18.2M. From this information we can find that the overall population of the countries Malaysia and Sri Lanka had increased over the selected time period. To be more precise the total population of Malaysia had increased more when compared to other two countries.
