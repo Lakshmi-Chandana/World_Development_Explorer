@@ -7,4 +7,5 @@ This project is all about working and exploring the world data from the site **W
 ### Observations from the analysis
 ![](https://github.com/Lakshmi-Chandana/World_Development_Explorer/issues/1#issuecomment-807708982)
 
-![](
+![](![image](https://user-images.githubusercontent.com/78044715/112570735-0197e800-8dbd-11eb-8ac0-fe8638f4c20c.png)
+
