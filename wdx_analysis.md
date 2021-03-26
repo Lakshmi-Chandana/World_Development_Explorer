@@ -38,7 +38,7 @@ Observe the chart below.
 
 - The last country that has the least agricultural land area among the selected three countries is Brunei Darussalam. According to the general data, this country occupies the last place because the total land area for Brunei is extremely small compared to other countries.
 
-Now lets take the other line chart which gives us the information about Population growth (annual %) during the years 1988 to 1995 for the selected countries Brunei, Malaysia and Sri Lanka.
+##### Now lets take the other line chart which gives us the information about Population growth (annual %) during the years 1988 to 1995 for the selected countries Brunei, Malaysia and Sri Lanka.
 
 ![image](https://user-images.githubusercontent.com/78044715/112643393-b6acbd80-8e1a-11eb-8a0b-bb463c2c5541.png)
 
@@ -48,7 +48,7 @@ Now lets take the other line chart which gives us the information about Populati
 
 - The smallest country Brunei Darussalam also took significant care in its annual population growth between the years 1988 and 1995. Though the annual perncent growth in population in 1988 is 2.83, it percent eventually tripped to 2.61 by the year 1995.
 
-The final indicator that we look into is the total population of all the three countries. Below is the line chart which represents the same through the years 1988 to 1995.
+##### The final indicator that we look into is the total population of all the three countries. Below is the line chart which represents the same through the years 1988 to 1995.
 
 ![image](https://user-images.githubusercontent.com/78044715/112648443-eb6f4380-8e1f-11eb-89fe-32205f986b0b.png)
 
