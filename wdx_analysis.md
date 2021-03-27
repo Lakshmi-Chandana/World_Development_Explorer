@@ -25,6 +25,8 @@ This project is all about working and exploring the world data from the site **W
 
 ![image](https://user-images.githubusercontent.com/78044715/112571802-2b520e80-8dbf-11eb-830a-a288f6c21ccb.png)
 
+**Note** - It is good to group by countries rather than region for better understanding of the information from the chart.
+
 ### Analysis from line chart
 To explain the analysis more clearly, lets take line charts into consideration. We get three line charts as there are three indicators to be looked into. First lets see the below line chart which gives the information about Agricultural land i.e., the percenage of land area during the given time period 1988 to 1995 for the selected countries i.e., Brunei Darussalam, Sri Lanka, Malaysia.
 
