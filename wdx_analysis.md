@@ -25,7 +25,7 @@ This project is all about working and exploring the world data from the site **W
 
 ![image](https://user-images.githubusercontent.com/78044715/112571802-2b520e80-8dbf-11eb-830a-a288f6c21ccb.png)
 
-### Analysis
+### Analysis from line chart
 To explain the analysis more clearly, lets take line charts into consideration. We get three line charts as there are three indicators to be looked into. First lets see the below line chart which gives the information about Agricultural land i.e., the percenage of land area during the given time period 1988 to 1995 for the selected countries i.e., Brunei Darussalam, Sri Lanka, Malaysia.
 
 Observe the chart below.
@@ -55,3 +55,20 @@ Observe the chart below.
 - Though Brunei Darussalam is the beautiful and smallest country among the countries that we have chosen, the total population of the country was maintained excellently through out our selected time period. The total population in the year 1988 was approximately 244 thousands and with a very slight enlargement, the total population by the end of the year 1995 was only approximately 297 thousands. This information states that the Brunei country is very stable or almost equal in the given time span.
 
 - The population of the other two countries Malaysia and Sri Lanka are almost similar in the starting of our period i.e., 1988 with 17M for Malaysia and 16.8M for Sri Lanka. But gradually the difference between the two countries in their population count had shown a variance and it went increasing by the end of our selected time span i.e., the year 1995 where the population of Malaysia in the year 1995 is 20.4M and the population of the country Sri Lanka in the year 1995 is about 18.2M. From this information we can find that the overall population of the countries Malaysia and Sri Lanka had increased over the selected time period. To be more precise the total population of Malaysia had increased more when compared to other two countries.
+
+### Analysis from Bubble chart
+
+To explain the analysis through other type of chart i.e., bubble chart, let's look at the below explanation.
+
+![image](https://user-images.githubusercontent.com/78044715/112721160-cc80b800-8ed8-11eb-8ed9-c6331cbc20b9.png)
+
+Above is the bubble chart showing the information about percentage of agricultural land area, percentage of population growth annually, and the overall population of the given three countries Brunei Darussalam, Malaysia and Sri Lanka over the selected time period.
+- In the year 1988, when we look into Brunei country, we can see the information from the bubble as percentage of agricultural land is 2.2, percentage of annual population growth is 2.8 and total population of the country is 244 thousands approximately.
+- Let's look at Malaysia in the year 1988, we can know the information as percent of agricultural land area is 19.4, percent of annual population growth is 2.98 and 17,022 thousands nearly.
+- When we see the other country Sri Lanka in the year 1988, it gives us the information like percentage of agricultural land area is 37.2, percent of annual population growth is 1.39 and the overall population in 1988 is 16,878 thousands.
+
+If we want to see the trend of the countries through the given time stamp, we can see that through the animation of the bubbles flowing. In that way, Brunei Darussalam had not shown great changes till the year 1993, but there were significant changes in the year 1994 and 1995.
+
+In the same way, we can see the animation of the country Malaysia, where it had shown changes in its values in through out the period, but more changes in the starting of the period and less changes comparitvely at the end.
+
+Looking at the changes for the other country Sri Lanka through animation, we can observe that the annual population growth percentage is falling good, which is good thing to control the population. Because if the population goes on increasing year by year, there will not be enough resourses to fulfill all the needs of all the people which is why it is good to control the population growth. And there had been very slight differences in the pencentage of agricultural land. To look from another view, if the percentage of agricultural land has no change or decrease over the period, the country will not be able to feed all the people when population keeps on increasing. Stabilizing the population is important may be with minute changes.
