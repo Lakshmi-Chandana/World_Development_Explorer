@@ -72,3 +72,7 @@ If we want to see the trend of the countries through the given time stamp, we ca
 In the same way, we can see the animation of the country Malaysia, where it had shown changes in its values in through out the period, but more changes in the starting of the period and less changes comparitvely at the end.
 
 Looking at the changes for the other country Sri Lanka through animation, we can observe that the annual population growth percentage is falling good, which is good thing to control the population. Because if the population goes on increasing year by year, there will not be enough resourses to fulfill all the needs of all the people which is why it is good to control the population growth. And there had been very slight differences in the pencentage of agricultural land. To look from another view, if the percentage of agricultural land has no change or decrease over the period, the country will not be able to feed all the people when population keeps on increasing. Stabilizing the population is important may be with minute changes.
+
+Below is the image which shows the position of the countries in the year 1995.
+
+![image](https://user-images.githubusercontent.com/78044715/112722266-db6a6900-8ede-11eb-98e4-1e451cdf04c9.png)
