@@ -80,3 +80,25 @@ Below is the image which shows the position of the countries in the year 1995.
 ![image](https://user-images.githubusercontent.com/78044715/112722266-db6a6900-8ede-11eb-98e4-1e451cdf04c9.png)
 
 I think the bubble chart serves a better purpose because we get to see the information in a single chart rather than three different charts like in the line chart as there are three indicators. The other better purpose is the concept of animation. The bubble moves according to the data in animated format in a single chart. Hence, in my observation bubble chart serves comparitively better than line chart.
+
+### Analysis from 2D Scatter chart
+
+2D scatter is another type of chart that we can look into for our exploration. 2D scatter chart has some similar functionalities like bubble chart, i.e., the information is shown in an animated format for the given time period for the selected countries. Now lets look at the image that gives us information about Agricultural land percentage and annual population growth percent for the countries Brunei Darussalam, Malaysia, Sri Lanka in the year 1988.
+
+![image](https://user-images.githubusercontent.com/78044715/112765609-ed7e0180-8fdb-11eb-8a10-bcec5ea6b241.png)
+
+From the image we have the data as follows.
+
+- In this chart Malaysia had more annual population growth percentage with 2.98% but stands second in percentage of Agricultural land with 19.4%.
+- Brunei Darussalam, which is the smallest country, occupies the last place when it comes to percentage of agricultural land with 2.27% and second place in annual population growth with 2.83%.
+- The other country Sri Lanka has greatest percentage of agricultural land among the given countries with 37.2% but the least percent in annual population growth with 1.39% with is a good point to be looked into. 
+
+With the animation the coloured dots move according to the data. So by the end of the time span i.e., the year 1995, we have the following data.
+
+- Now Brunei country came to ahead position in percentage of annual population growth with 2.61% but least in agricultural land percentage with 1.89%.
+- Malaysia stands second in both the indicators with 21.2% of agricultural land area and 2.52% of annual population growth.
+- The point to be noted is we will not be able to see the third country Sri Lanka by the year 1995 as the readings have gone down completely below the actual scale. 
+
+The points that are not interesting in this type of chart is that the country might disappear from the graph if the values go too high or too low. The other point to be observed is we are not able to see the third indicator i.e., total population of the countries because this chart is associated with only two indicators.
+
+To conclude on the observations, I am able to analyse that bubble chart served the better purpose than line chart and 2D scatter plot.
