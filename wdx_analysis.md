@@ -79,4 +79,4 @@ Below is the image which shows the position of the countries in the year 1995.
 
 ![image](https://user-images.githubusercontent.com/78044715/112722266-db6a6900-8ede-11eb-98e4-1e451cdf04c9.png)
 
-I think the bubble chart serves a better purpose because we get to see the information in a single chart rather than three different charts like in the line chart as there are three indicators. The other better purpose is the concept of animation. The bubble moves according to the data in animated format in a single chart.
+I think the bubble chart serves a better purpose because we get to see the information in a single chart rather than three different charts like in the line chart as there are three indicators. The other better purpose is the concept of animation. The bubble moves according to the data in animated format in a single chart. Hence, in my observation bubble chart serves comparitively better than line chart.
